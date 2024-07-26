@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"nutritrack-auth","appId":"1:568396119393:android:229da24c05081d0f9ad920","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"nutritrack-auth","configurations":{"android":"1:568396119393:android:229da24c05081d0f9ad920","ios":"1:568396119393:ios:8df78b60bc21d91d9ad920"}}}}}}
